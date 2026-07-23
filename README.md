@@ -8,8 +8,8 @@ Create a simple, VHF/UHF cross-band FM voice repeater amateur radio payload for 
 * Transmit station ID, current temperature, and MCU reboot count number on periodic basis
 * Use external watchdog to monitor microcontroller and prevent system lockups
 * Accept range of supply voltages (3.8Vmin to 32Vmax)
-* Inclue ability for payload host to enable/disable payload function
-* PC/104 footprint
+* Include ability for payload host to enable/disable payload function
+* Design to PC/104 footprint standards
 
 # Status
 In development
