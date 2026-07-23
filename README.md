@@ -1,2 +1,2 @@
 # HARP-FoxMikeAlpha
-V/u FM voice cross-band repeater for amateur satellite service
+Create a V/u FM voice cross-band repeater for amateur satellite service.
