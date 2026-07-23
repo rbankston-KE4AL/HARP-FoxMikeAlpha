@@ -13,3 +13,6 @@ Create a simple, VHF/UHF cross-band FM voice repeater amateur radio payload for 
 
 # Status
 In development
+
+# Licensing
+All developed hardware is under the CERN-OHL-P license and firmware is under the MIT license 
